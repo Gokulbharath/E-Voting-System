@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/280c63df-6825-4a5d-b163-c926eb074393)## Overview
+## Overview
 This **Online Voting System** allows users to register, log in, and vote for candidates in a secure and simple interface. It includes an admin section to manage candidates and view voting results. The system is built using **HTML**, **CSS**, **JavaScript**, and **PHP** with a MySQL database for storing votes and user details.
 
 ## Features
@@ -56,3 +56,4 @@ This **Online Voting System** allows users to register, log in, and vote for can
 
 ## Project Structure
 online-voting-system/ │ ├── config.php # Database connection ├── index.html # Main homepage ├── register.php # Registration page ├── login.php # User login ├── vote.php # Voting page ├── results.php # Results page ├── admin/ │ ├── admin-login.php # Admin login page │ ├── dashboard.php # Admin dashboard │ ├── add-candidate.php # Admin add candidates │ └── view-results.php # Admin view results └── assets/ ├── css/ # CSS files └── js/ # JavaScript files
+![login](https://github.com/user-attachments/assets/6afd384b-7280-408e-94ee-ef56b56550d4)
