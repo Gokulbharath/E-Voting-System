@@ -58,21 +58,27 @@ This **Online Voting System** allows users to register, log in, and vote for can
 online-voting-system/ │ ├── config.php # Database connection ├── index.html # Main homepage ├── register.php # Registration page ├── login.php # User login ├── vote.php # Voting page ├── results.php # Results page ├── admin/ │ ├── admin-login.php # Admin login page │ ├── dashboard.php # Admin dashboard │ ├── add-candidate.php # Admin add candidates │ └── view-results.php # Admin view results └── assets/ ├── css/ # CSS files └── js/ # JavaScript files
 
 Login page
+
 ![login](https://github.com/user-attachments/assets/6afd384b-7280-408e-94ee-ef56b56550d4)
 
 Dashboard
+
 ![dashboard](https://github.com/user-attachments/assets/cd6dfa83-8332-484f-b479-db383f271b25)
 
 Canditate
+
 ![candidate](https://github.com/user-attachments/assets/78220f7b-6c8b-4adf-b23e-03ad6f3332a8)
 
 Voting
+
 ![vote](https://github.com/user-attachments/assets/4e1e7c4d-116b-4010-b4e2-59cdaf65b7b5)
 
 Admin Login
+
 ![admin](https://github.com/user-attachments/assets/8e2a91a8-5ecc-480c-8e74-5d8535a8aee0)
 
-result
+Result
+
 ![result](https://github.com/user-attachments/assets/a58ca5eb-4937-4e94-818c-f466bf45cb2e)
 
 
