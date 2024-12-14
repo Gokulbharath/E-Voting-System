@@ -23,7 +23,7 @@ This **Online Voting System** allows users to register, log in, and vote for can
 ### Steps to Setup
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/online-voting-system.git
+    git clone https://github.com/Gokulbharath/online-voting-system.git
     ```
 
 2. Move the project folder to your server's root directory (`htdocs` for XAMPP, `www` for WAMP).
